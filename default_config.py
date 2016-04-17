@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-DEFAULT_GROUP = "A"
 DEFAULT_TYPES = ["real"]
 DEFAULT_TEAM_IDS = ["1"]
 DEFAULT_LOCATION = "."
