@@ -49,7 +49,6 @@ class LeagueCalculator(object):
         for group, fixture_type in self.fixture_types.iteritems():
             if group in self.GROUPS:
                 if fixture_type in self.FIXTURES[group]:
-                    print fixture_type
                     for fixtures in self.FIXTURES[group][fixture_type]:
                         self.COMBS[group].append([])
                         for r1 in fixtures[0][2]:
