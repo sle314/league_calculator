@@ -2,6 +2,7 @@
 DEFAULT_TYPES = ["real"]
 DEFAULT_TEAM_IDS = ["1"]
 DEFAULT_LOCATION = "."
+DEFAULT_ACTIVE_GROUPS = ["A", "B"]
 
 TEAMS = {
     # id: name
